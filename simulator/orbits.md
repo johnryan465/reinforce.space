@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Propagator
-parent: Orbits
+title: Orbits
+parent: Simulator
 nav_order: 2
 ---
 
 ## Orbits
-
-Orebit in Orekit r

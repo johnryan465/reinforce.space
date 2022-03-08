@@ -20,4 +20,4 @@ The linearisation equation can be understood from [here](https://fgiesen.wordpre
 
 The __Kinetcs__ provider updates the spin in the satillite fram and the angular accelleration.
 
-This step takes in the state of 
+This step is where we take in the forces  which are acting on the satillite and use these to update the required values.
