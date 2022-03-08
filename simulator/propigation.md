@@ -16,3 +16,5 @@ The simplest way to implement this is by using a FixedStepHandler. This is a fun
 Orekit can then interpolate between the states which we have generated at our fixed time steps.
 
 If we make our fixed time step sufficently stop, we can linearise the physics equations which we use to update the state.
+
+The propigator will update the positions using the attidues provided.
