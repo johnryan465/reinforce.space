@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Deep Q Network
-nav_order: 2
 parent: RL Models
+grand_parent: Reinforcement Learning
 math: mathjax3
 ---
 
