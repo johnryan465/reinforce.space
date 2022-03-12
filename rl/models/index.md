@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RL Model
+title: RL Models
 nav_order: 2
 has_children: true
 parent: Reinforcement Learning
