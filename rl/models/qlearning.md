@@ -1,10 +1,11 @@
 ---
 layout: default
-title: RL Model
+title: Q Learning
 nav_order: 2
 has_children: true
-parent: Reinforcement Learning
+parent: RL Models
 math: mathjax3
 ---
 
-## RL Models
+## Q Learning
+
