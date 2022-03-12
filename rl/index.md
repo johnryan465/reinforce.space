@@ -11,7 +11,7 @@ math: mathjax3
 
 ## Markov Decision Process
 
-A markov descision process is a tuple $$(S,A,P,R)$$ where
+A markov descision process is a tuple $(S,A,P,R)$ where
 
 - $S$ is a set or states
 - $A$ is a set of actions (which might be dependent on the current state)
