@@ -3,6 +3,7 @@ layout: default
 title: Reinforcement Learning
 nav_order: 2
 has_children: true
+mathjax: true
 ---
 
 
@@ -10,7 +11,7 @@ has_children: true
 
 ## Markov Decision Process
 
-A markov descision process is a tuple $(S,A,P,R)$ where
+A markov descision process is a tuple $$(S,A,P,R)$$ where
 
 - $S$ is a set or states
 - $A$ is a set of actions (which might be dependent on the current state)
