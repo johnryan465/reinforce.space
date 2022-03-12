@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Reinforcement Learning
+title: Action Space
 nav_order: 2
-has_children: true
+parent: Reinforcement Learning
 ---
 
 

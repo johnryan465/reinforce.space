@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Reinforcement Learning
+title: Safety
 nav_order: 2
 has_children: true
+parent: Reinforcement Learning
 ---
 
 
-# Reinforcement Learning
+# Safety
 
