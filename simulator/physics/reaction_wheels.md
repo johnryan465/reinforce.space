@@ -13,5 +13,3 @@ They operate using the principle of conservation of angular momentum. They angul
 
 There is no external torque possible. As reaction wheels have a max rotation rate, they can be saturated and not provide any additional force after a certain point. Ideally reaction wheels should be combined with a different system which can apply external torque such as magnetoquers.
 
-
-
