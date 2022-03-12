@@ -27,4 +27,6 @@ A common approach is to attempt to maximise the expected discounted reward. This
 
 In Model Free RL we do not attempt to explicitly model the transition functions and reward functions, we simply use the data which we aquire.
 
-In Model Based RK we 
+In Model Based RL we explicitly attempt to model these functions, and by using them might improve our results.
+
+
