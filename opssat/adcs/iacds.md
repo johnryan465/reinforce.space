@@ -10,3 +10,22 @@ grand_parent: OPSSAT
 ![](/assets/iadcs.png)
 
 ![](/assets/block.png)
+
+## Modes
+
+
+| Operation Modes                                   | Availability  |
+| ------------------------------------------------- | ------------- |
+| Safe Mode                                         | Available     |
+| Idle Mode                                         | Available     |
+| Measurement Mode                                  | Available     |
+| Detumbling Mode                                   | Available     |
+| Active Sun Pointing Mode                          | Available     |
+| Inertial target pointing using Euler rotation     | Not available |
+| Fix earth target poingint using Euler rotation    | Not available |
+| Target pointing with quaternion polynomial target | Not available |
+| Inertial target pointing with constant velocity   | Available     |
+| Fix earth target pointing                         | Available     |
+| Earth target pointing with constant velocity      | Available     |
+| Nadir pointing                                    | Available     |
+
