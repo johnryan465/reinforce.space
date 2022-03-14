@@ -35,3 +35,6 @@ parent: OPSSAT
 | Earth target pointing with constant velocity      | Available     |
 | Nadir pointing                                    | Available     |
 
+
+
+
