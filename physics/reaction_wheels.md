@@ -24,5 +24,12 @@ $L$ is the angular momentum.
 - $\omega$ is the angular velocity.
 
 
+Each of the reaction wheels will have the same moment of inertia.
+
+
+
+We do this seperately with respect the the 3 axis.
+
+
 $$L_{total} = L_{body} + L_{wheels}$$
 
