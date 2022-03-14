@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Orbits
-parent: Simulator
+parent: Orekit
+grand_parent: Simulator
 nav_order: 2
 ---
 

@@ -14,5 +14,4 @@ Additionaly we want to use our model from within Java ideally as the NMF App fra
 
 We will use the PyTorch Java bindings, and we need to cross compile for the correct architechure.
 
-
-[Bindings]()
+[Bindings](https://github.com/pytorch/java-demo)
