@@ -19,3 +19,8 @@ title: Resources
 
 ## Documentation
 - [Mission Operations Services Concept](http://public.ccsds.org/Pubs/520x0g3.pdf)
+
+
+## Resources
+- [OrbitAI](https://github.com/georgeslabreche/opssat-orbitai)
+- [Satmind](https://github.com/dkolosa/Satmind)
