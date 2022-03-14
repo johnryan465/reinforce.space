@@ -2,7 +2,7 @@
 layout: default
 title: iADCS
 parent: ADCS
-grandparent: OPSSAT
+grand_parent: OPSSAT
 ---
 
 ## iADCS Unit
