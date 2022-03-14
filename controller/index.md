@@ -8,6 +8,6 @@ has_children: true
 
 ## Controller
 
-The cointroller in this project is a replacement for the ACDS.
+The controller in this project is a replacement for the ACDS.
 
 The controller will be learned via reinforcment learning.
