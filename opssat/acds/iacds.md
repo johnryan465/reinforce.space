@@ -1,7 +1,7 @@
 ---
 layout: default
 title: iADCS
-parent: ACDS
+parent: ADCS
 grandparent: OPSSAT
 ---
 
