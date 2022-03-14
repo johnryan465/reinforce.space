@@ -1,9 +1,15 @@
 ---
 layout: default
 title: iADCS
-parent: ADCS
-grand_parent: OPSSAT
+parent: OPSSAT
 ---
+
+# iADCS
+
+- It uses the SGP4 model for orbit propagation. [Link](http://celestrak.com/NORAD/documentation/spacetrk.pdf)
+- It uses the World Magnetic Model released by NOAA.
+
+
 
 ## iADCS Unit
 
@@ -22,7 +28,7 @@ grand_parent: OPSSAT
 | Detumbling Mode                                   | Available     |
 | Active Sun Pointing Mode                          | Available     |
 | Inertial target pointing using Euler rotation     | Not available |
-| Fix earth target poingint using Euler rotation    | Not available |
+| Fix earth target pointint using Euler rotation    | Not available |
 | Target pointing with quaternion polynomial target | Not available |
 | Inertial target pointing with constant velocity   | Available     |
 | Fix earth target pointing                         | Available     |

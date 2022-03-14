@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PyTorch
-parent: Embedding
+parent: Deployment
 ---
 
 
