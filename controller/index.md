@@ -10,4 +10,4 @@ has_children: true
 
 The controller in this project is a replacement for the ACDS.
 
-The controller will be learned via reinforcment learning.
+The controller will be learned via reinforcement learning.

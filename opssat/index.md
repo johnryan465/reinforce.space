@@ -15,4 +15,4 @@ has_children: true
     - Detumbling
 
 - Safety constraints
-- Momentuem offloading between reaction wheel and magnetorquers (automatic)
+- Momentum offloading between reaction wheel and magnetorquers (automatic)

@@ -9,7 +9,7 @@ has_children: False
 
 ## ICRF Frame
 
-This is an interial frame which is defined relative to extra galactic sources.
+This is an inertial frame which is defined relative to extra galactic sources.
 
 
 ## J2000 Frame
@@ -44,7 +44,7 @@ Todo: Create image of ECEF Frame
 
 ## Body Fixed Reference Frame
 
-This is a reference frame where the coordinates are fixed with respect to some body. In our case this will be the satillite body. This will be a non inertial reference frame.
+This is a reference frame where the coordinates are fixed with respect to some body. In our case this will be the satellite body. This will be a non inertial reference frame.
 
 
 ```

@@ -8,7 +8,7 @@ has_children: true
 
 # Actuators
 
-The actuators of the OPS SAT are reaction wheels and magnetoquers, however we need to consider the level of control we have over these components to accurately reflect the world.
+The actuators of the OPS SAT are reaction wheels and magnetorquers, however we need to consider the level of control we have over these components to accurately reflect the world.
 
 
 ## PID Controllers
