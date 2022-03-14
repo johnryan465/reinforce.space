@@ -2,6 +2,7 @@
 layout: default
 title: Specifications
 parent: OPSSAT
+math: mathjax3
 ---
 
 
