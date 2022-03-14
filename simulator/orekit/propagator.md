@@ -2,6 +2,7 @@
 layout: default
 title: Propagator
 parent: Orekit
+grand_parent: Simulator
 has_children: true
 ---
 
