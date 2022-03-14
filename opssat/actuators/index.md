@@ -1,5 +1,5 @@
 ---
 layout: default
-title: OPSSAT Reaction Wheels
+title: OPSSAT Actuators
 parent: OPSSAT
 ---
