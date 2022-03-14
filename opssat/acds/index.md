@@ -2,6 +2,7 @@
 layout: default
 title: ADCS
 parent: OPSSAT
+has_children: true
 ---
 
 
