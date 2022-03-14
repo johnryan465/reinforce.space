@@ -2,7 +2,7 @@
 layout: default
 title: iADCS
 parent: ACDS
-grandparent: Nanosat MO Framework
+grandparent: OPSSAT
 ---
 
 ## iADCS Unit

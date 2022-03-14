@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ADCS
-parent: Nanosat MO Framework
+parent: OPSSAT
 ---
 
 
