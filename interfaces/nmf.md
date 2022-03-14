@@ -1,13 +1,12 @@
 ---
 layout: default
-title: NMF
+title: NMF Setting
 parent: Interfaces
 ---
 
 
 ## Nanosat MO Framework
 
-[Link](https://github.com/esa/nanosat-mo-framework)
 
 
 Relavent API specification in the NMF layer.
