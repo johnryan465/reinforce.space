@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Custom
+title: Custom Simulator
 parent: Simulator
 has_children: true
 ---
@@ -19,3 +19,11 @@ For this project we have written a custom simulator for our RL Loop.
 The solution used in this project is to use the Orekit Python bindings.
 
 
+---
+
+## Design
+
+- Use Orekit Python Bindings
+- Use the Numerical Propagator
+- Add force model for reaction wheel and magnetorquers.
+- Add a function for the controller to update their state.
