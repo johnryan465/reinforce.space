@@ -15,7 +15,7 @@ They operate using the principle of conservation of angular momentum. They angul
 
 There is no external torque possible. As reaction wheels have a max rotation rate, they can be saturated and not provide any additional force after a certain point. Ideally reaction wheels should be combined with a different system which can apply external torque such as magnetoquers.
 
-
+---
 
 $L$ is the angular momentum.
 
@@ -25,7 +25,6 @@ $L$ is the angular momentum.
 
 
 Each of the reaction wheels will have the same moment of inertia.
-
 
 
 We do this seperately with respect the the 3 axis.
