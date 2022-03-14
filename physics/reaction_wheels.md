@@ -34,3 +34,6 @@ We do this separately with respect the the 3 axis.
 
 $$L_{total} = L_{body} + L_{wheels}$$
 
+$$L_{total} = I_{body} \omega_{body} + I_{wheels} \omega_{wheels}$$
+
+$$\omega_{body} = I_{body}^{-1} \left(L_{total} - I_{wheels} \omega_{wheels} \right) $$
