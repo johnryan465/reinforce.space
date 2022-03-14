@@ -3,6 +3,7 @@ layout: default
 title: Reaction Wheels
 parent: Physics
 has_children: False
+math: mathjax3
 ---
 
 
