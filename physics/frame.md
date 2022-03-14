@@ -7,6 +7,18 @@ has_children: False
 
 
 
+## ICRF Frame
+
+This is an interial frame which is defined relative to extra galactic sources.
+
+
+## J2000 Frame
+
+This is an inertial frame which is defined by the J2000 epoch, and the mean equator and equinox at that point.
+
+The ICRF frame was designed to almost exactly correspond to the the J2000 frame.
+
+
 ## Earth Centered Inertial (ECI) Frame
 
 __Earth Centered Inertial Frame__ is a global reference frame, which is commonly used for satellites.

@@ -5,3 +5,6 @@ parent: Actuators
 grand_parent: OPSSAT
 ---
 
+## Magnetorquers
+
+
