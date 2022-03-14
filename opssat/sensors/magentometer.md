@@ -1,10 +1,10 @@
 ---
 layout: default
-title: OPSSAT Magnetorquers
+title: OPSSAT Magnetometer
 parent: Sensors
 grand_parent: OPSSAT
 ---
 
-## Magnetorquers
+## Magnetometer
 
 
