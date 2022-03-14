@@ -7,4 +7,4 @@ grand_parent: OPSSAT
 
 ## iADCS Unit
 
-![](iadcs.png)
+![](/assets/iadcs.png)
