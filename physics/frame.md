@@ -18,6 +18,10 @@ This is an inertial frame which is defined by the J2000 epoch, and the mean equa
 
 The ICRF frame was designed to almost exactly correspond to the the J2000 frame.
 
+![](/assets/j2000.png)
+
+## True Equator, Mean Equinox Frame
+
 
 ## Earth Centered Inertial (ECI) Frame
 
