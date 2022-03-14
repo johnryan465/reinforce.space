@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Proportional Control
-parent: Controller
+parent: ACDS
+grand_parent: NMF
 math: mathjax3
 ---
 
