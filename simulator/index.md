@@ -6,8 +6,9 @@ has_children: true
 ---
 
 
-# Simulator
+# Simulators
 
-- This project contains a Python Orekit based simulator for CubeSats.
+- This project contains a Python Orekit based simulator for NanoSats.
+- The ESA has developed Nanosat MO Framework which contains a simulator for the OPS SAT.
 
 
